@@ -1,0 +1,7 @@
+compile as: 
+    gcc ping.c -o ping
+
+usage: 
+    sudo ./ping google.com
+    or
+    sudo ./ping 172.217.3.206
